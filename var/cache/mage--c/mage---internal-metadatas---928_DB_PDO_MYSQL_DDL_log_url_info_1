@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a:4:{s:4:"hash";i:-1215047888;s:5:"mtime";i:1393428502;s:6:"expire";i:1393435702;s:4:"tags";a:1:{i:0;s:20:"928_DB_PDO_MYSQL_DDL";}}
+=======
+a:4:{s:4:"hash";i:-1215047888;s:5:"mtime";i:1393422207;s:6:"expire";i:1393429407;s:4:"tags";a:1:{i:0;s:20:"928_DB_PDO_MYSQL_DDL";}}
+>>>>>>> c97ff91... create cms page with template
