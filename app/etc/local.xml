@@ -53,6 +53,14 @@
             </default_setup>
         </resources>
         <session_save><![CDATA[files]]></session_save>
+        <cms>
+            <layouts>
+                <redirect>
+                    <label>Detail Editor Template</label>
+                    <template>page/cms-layout.phtml</template>
+                </redirect>
+            </layouts>
+        </cms>
     </global>
     <admin>
         <routers>
