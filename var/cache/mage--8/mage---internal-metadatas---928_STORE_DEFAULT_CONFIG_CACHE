@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-a:4:{s:4:"hash";i:259299459;s:5:"mtime";i:1393428479;s:6:"expire";i:1393435679;s:4:"tags";a:2:{i:0;s:9:"928_STORE";i:1;s:10:"928_CONFIG";}}
-=======
-a:4:{s:4:"hash";i:259299459;s:5:"mtime";i:1393422206;s:6:"expire";i:1393429406;s:4:"tags";a:2:{i:0;s:9:"928_STORE";i:1;s:10:"928_CONFIG";}}
->>>>>>> c97ff91... create cms page with template
+a:4:{s:4:"hash";i:259299459;s:5:"mtime";i:1393516743;s:6:"expire";i:1393523943;s:4:"tags";a:2:{i:0;s:9:"928_STORE";i:1;s:10:"928_CONFIG";}}
